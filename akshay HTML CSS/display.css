@@ -1,0 +1,26 @@
+/* #a1{
+    display: inline;
+  background-color: yellow;
+}
+div{
+    display: block;
+    background-color: red;
+}
+#a2{
+    display: inline-block;
+    background-color: antiquewhite;
+}
+#a3{
+    display: none;
+    background-color: aqua;
+}
+#a4{
+    display: grid;
+    background-color: lightcoral;
+} */
+#a5{
+    display: flex;
+   width: 300px;
+    background-color: lightseagreen;
+justify-content: right;
+}

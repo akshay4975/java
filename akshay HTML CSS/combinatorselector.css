@@ -1,0 +1,51 @@
+ /*combinator selectors  */
+/* main>div>#a2{
+
+    background-color: red;
+
+} */
+/* main #a2:hover{
+   background-color: yellow; 
+
+}*/
+/* p+main{
+    background-color: orange;
+}
+div~p{
+    background-color: bisque;
+}
+ */
+ /* psuedo element selectors 
+li::marker{
+    content:icon;
+}
+*/
+/* attribute selectors */
+a[target]{
+    background-color:red;
+
+}
+a[target="_blank"]{
+    background-color: yellow;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

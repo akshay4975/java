@@ -1,0 +1,22 @@
+ h1{ 
+    background-color: red;
+}
+#a1{
+    background-color: yellow;
+
+}
+.main{
+    background: black;
+
+} 
+h1,#a1,.main{
+    background-color: blue;
+}
+ *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+    background-color: aqua;
+ }

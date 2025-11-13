@@ -1,0 +1,67 @@
+
+
+#h1{
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255,251,232);
+}
+
+#img{
+    background-image: url(download.jpg);
+    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#lg{
+    background-image: linear-gradient(red,yellow);
+}
+
+#rg{
+    background-image: radial-gradient(red, yellow, blue , pink) ;
+    border-radius: 50%;
+}
+
+#cg{
+    background-image: conic-gradient(red,yellow,green,white,pink,blue);
+    border-radius: 50%;
+}
+
+#rlg{
+    background-image: repeating-linear-gradient(rgb(185, 152, 152), rgb(155, 15, 38),rgb(197, 197, 23), rgb(242, 235, 235), rgb(15, 15, 192));
+    border-radius: 50%;
+}
+
+#rrg{
+    background-image: repeating-radial-gradient(red,yellow,pink,blue, red,blue, yellow,green,pink);
+    border-radius: 50%;
+}
+#h2{
+    display: flex;
+    /* background-color: aqua; */
+    height: 400px;
+    flex-wrap: wrap;
+    margin: 0;
+    justify-content: space-evenly;
+}
+
+#h3{
+    display: flex;
+    margin: 0;
+     justify-content:center;
+     justify-content: space-evenly;
+}
+
+div{
+    margin: 20px;
+    border: 2px solid 2px 3px 4px;
+    width: 190px;
+    height: 270px;
+    /* border-radius: px; */
+    /* overflow: hidden; */
+    /* background-image: url(download.jpg); */
+}
+
+ 

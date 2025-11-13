@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+div{
+    background-color:red;
+    border: 10px solid;
+    height: 300px;
+    width: 300px;
+}

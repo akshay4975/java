@@ -1,0 +1,68 @@
+section{
+    background-color: aqua;
+    width: 800px;
+    height: 600px;
+    margin: 50px;
+    border: 2px solid;
+}
+
+div{
+    background-color: beige;
+    border: 2px solid;
+    margin: 5px;
+}
+
+#d1{
+    height: 70px;
+    background-color: blueviolet;
+}
+
+#d2{
+     height: 70px;
+     background-color: chartreuse;
+}
+
+#d3{
+    height: 350px;
+    display: flex;
+}
+
+#d4{
+    height: 70px;
+    background-color: chocolate;
+}
+p{
+    background-color: rgb(62, 11, 11);
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+     
+}
+#p1{    
+    width: 240px;
+    height: 350px;
+    margin: 0px;
+    border: 2px solid white;
+}
+ 
+#p2{
+     
+}
+
+#h51{
+
+    margin: 0px;
+    height: 165px;
+    border: 1px solid red;
+    width: 527px;
+    background-color: blue;
+}
+
+#h52{
+   
+    border: 2px solid red;
+    height: 170px;
+    width: 525px;
+    margin: 0px;
+    background-color: aquamarine;
+}
