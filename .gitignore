@@ -1,0 +1,15 @@
+# Ignore compiled Java class files
+*.class
+
+
+
+# Ignore PDFs
+*.pdf
+
+# Ignore IDE folders
+.vscode/
+.idea/
+
+# System files
+desktop.ini
+Thumbs.db
